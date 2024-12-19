@@ -19013,6 +19013,7 @@
             "运动健身",
             "戏曲评剧",
             "春节晚会",
+            "精选春晚",
             "经典音乐",
             "美食制作",
             "系统功能"
@@ -19020,7 +19021,7 @@
         "VideoClassInfoList": [
 {
     "className": "春节晚会",
-    "title": "2099年春节晚会",
+    "title": "1983年春节晚会",
     "picUrl": "https://i1.hdslb.site/bfs/archive/48fa0c5d97d32a3b4b8fc8e30555d74c76ab995e.jpg@672w_378h_1c_!web-search-common-cover.webp",
     "isShow": true,
     "videoCount": 1,
